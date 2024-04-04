@@ -1,0 +1,4 @@
+# MinkLocRGB model
+[MODEL]
+model = MinkLocRGB
+# model = netvlad 
